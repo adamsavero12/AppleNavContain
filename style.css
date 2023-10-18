@@ -103,7 +103,7 @@ body {
 }
 
 .main .contain .link a {
-    color: inherit;
+    color: rgb(0, 110, 255);
     text-decoration: none;
     padding: 25px;
 }
